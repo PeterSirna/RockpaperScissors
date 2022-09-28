@@ -16,7 +16,7 @@ public class Main {
         if (playerMove.equals("r") ||  playerMove.equals("p") || playerMove.equals("s")) {
     break;
             }
-System.out.println(playerMove + "isn't a valid move");
+System.out.println(playerMove + " isn't a valid move");
         }
 
         System.out.println("Computer Played: + computerMove");
